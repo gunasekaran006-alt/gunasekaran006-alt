@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gunasekaran S 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer (MERN) | Building AI-Integrated Web Apps</h3>
-<h3 align="center">Open to Work : Software engineering | Fullstack Developer</h3>
+<h3 align="center">Open to Work : Software Engineering | Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://my-professionalportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=flat-square" /></a>
@@ -15,7 +15,7 @@
 - 🎓 MERN Stack Developer, certified by **Illinois Institute of Technology (USA) & Entri Elevate**
 - 💼 12+ years of leadership & operations experience, now transitioning into full stack development
 - 🤖 Passionate about building **AI-integrated applications** using the Gemini API
-- 🌱 Currently deepening skills in TypeScript, AI, ML, DL, UI/UX, Data Analytics, Python, Power BI, SQL, Cyber Security, Ethical Hacking, Blockchain IoT & Cloud
+- 🌱 Currently deepening skills in TypeScript, AI, ML, DL, UI/UX, Data Analytics, Python, Power BI, SQL, Cyber Security, Ethical Hacking, Blockchain & IoT
 - 📍 Based in Coimbatore, Tamil Nadu, India
 
 ---
@@ -28,22 +28,53 @@
 
 **AI & Tools:** ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
+**Security:** `JWT` `MFA` `Role-Based Access Control (RBAC)`
+
 ---
 
 ### 🌟 Capstone Project
-Interactive AI Recipe Sharing Platform
 
-**[Live Link](https://interactive-recipe-sharing-platform.vercel.app)** 
-<br> 
+**Interactive AI Recipe Sharing Platform**
+**[Live Link](https://interactive-recipe-sharing-platform.vercel.app)** &nbsp;|&nbsp; **[Repo Link](https://github.com/gunasekaran006-alt/recipe-app)**
 
-**[Repo Link](https://github.com/gunasekaran006-alt/recipe-app)**  
 > Full-stack MERN app with JWT auth, OTP password reset, AI-powered "Magic Fill" via Gemini API, voice search, and CORS-secured production deployment (Vercel + Render).
 
 `MongoDB Atlas` `Express.js` `React 19` `Node.js` `JWT` `Gemini API`
 
 ---
 
+### 📜 Certifications
 
+- **Certification in Fullstack Development (MERN)** — Illinois Institute of Technology (USA) & Entri Elevate *(Dec 2025 – Sep 2026)*
+- **Full Stack MERN — Grade A (84%)** — Govt. of Tamil Nadu, Naan Mudhalvan (VetriNichayam), in collaboration with SmartBridge *(Oct 2025 – Feb 2026)*
+- **AI for All Specialization** — Intel & Skill India Digital (NSDC) *(Sep 2025 – Nov 2025)*
+
+---
+
+### 🎓 Education
+
+- **MBA – IT Management** *(Pursuing)*, SRM Institute of Science & Technology
+- **B.Com – Commerce**, Bharathiyar University
+
+---
+
+### 💼 Professional Journey
+
+12+ years of progressive leadership across operations, marketing, and business development — now applying that cross-functional experience to full stack development.
+
+| Role | Organization | Duration |
+|---|---|---|
+| Admin (E-commerce Operations) | Zero Gravity | 2024 – Present |
+| Marketing Manager | Mudhra Cards | 2023 – 2024 |
+| Business Development Manager | Mudhra Cards | 2021 – 2023 |
+| Team Coordinator | Mudhra Cards | 2019 – 2021 |
+| Sr. Marketing Executive & Field Officer | Mudhra Cards | 2016 – 2019 |
+| Store In-charge | KG Tyres | 2013 – 2016 |
+| Dispatch In-charge | Raja Magnetics | 2012 – 2013 |
+
+> **IT Transferable Skills:** Combining 12+ years of leadership & operations with MERN stack expertise to deliver efficient, scalable, and team-driven software solutions.
+
+---
 
 ### 📫 Let's Connect
 
