@@ -32,10 +32,10 @@
 ### 🌟 Capstone Project
 Interactive AI Recipe Sharing Platform
 
-**[Live Link]([https://github.com/gunasekaran006-alt/recipe-app](https://interactive-recipe-sharing-platform.vercel.app))** 
+**[Live Link](https://interactive-recipe-sharing-platform.vercel.app)** 
 <br> 
 
-**[Repo Link](https://github.com/gunasekaran006-alt/recipe-app)** — 
+**[Repo Link](https://github.com/gunasekaran006-alt/recipe-app)**  
 > Full-stack MERN app with JWT auth, OTP password reset, AI-powered "Magic Fill" via Gemini API, voice search, and CORS-secured production deployment (Vercel + Render).
 
 `MongoDB Atlas` `Express.js` `React 19` `Node.js` `JWT` `Gemini API`
