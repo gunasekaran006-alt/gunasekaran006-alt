@@ -15,7 +15,7 @@
 - 🎓 MERN Stack Developer, certified by **Illinois Institute of Technology (USA) & Entri Elevate**
 - 💼 12+ years of leadership & operations experience, now transitioning into full stack development
 - 🤖 Passionate about building **AI-integrated applications** using the Gemini API
-- 🌱 Currently deepening skills in TypeScript, AI, ML, DL, UI/UX, Data Analytics, Python, Power BI, SQL, Cyber Security, Ethical Hacking, Blockchain & IoT
+- 🌱 Currently deepening skills in TypeScript, AI, ML, DL, UI/UX, Data Analytics, Python, Power BI, SQL, Cyber Security, Ethical Hacking, Blockchain & IoT | Cloud & AI platforms
 - 📍 Based in Coimbatore, Tamil Nadu, India
 
 ---
