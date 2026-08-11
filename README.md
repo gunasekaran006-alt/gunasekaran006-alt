@@ -29,22 +29,19 @@
 
 ---
 
-### 🌟 Featured Project
-
-**[RecipeShare](https://github.com/gunasekaran006-alt/recipe-app)** — Interactive AI Recipe Sharing Platform
+### 🌟 Capstone Project
+Interactive AI Recipe Sharing Platform
+Live Link:
+https://interactive-recipe-sharing-platform.vercel.app/
+Git Repo Link:
+**[RecipeShare](https://github.com/gunasekaran006-alt/recipe-app)** — 
 > Full-stack MERN app with JWT auth, OTP password reset, AI-powered "Magic Fill" via Gemini API, voice search, and CORS-secured production deployment (Vercel + Render).
 
 `MongoDB Atlas` `Express.js` `React 19` `Node.js` `JWT` `Gemini API`
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunasekaran006-alt&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
