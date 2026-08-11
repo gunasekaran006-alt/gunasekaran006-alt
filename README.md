@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gunasekaran S 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer (MERN) | Building AI-Integrated Web Apps</h3>
-<h3 Open to Work : Software engineering | Fullstack Developer</h3>
+<h3 align="center">Open to Work : Software engineering | Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://my-professionalportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=flat-square" /></a>
