@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gunasekaran S 👋</h1>
 <h3 align="center">AI Enhanced Fullstack Software Engineer | Building AI-Integrated Web Apps</h3>
-<h3 align="center">Open to Work : MERN stack Developer | Fullstack Software Engineering | Software Engineering</h3>
+<h3 align="center">Open to Work : MERN stack Developer | Fullstack Software Engineer | Software Engineer</h3>
 
 <p align="center">
   <a href="https://my-professionalportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=flat-square" /></a>
