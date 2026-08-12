@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gunasekaran S 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer (MERN) | Building AI-Integrated Web Apps</h3>
-<h3 align="center">Open to Work : Software Engineering | Fullstack Developer</h3>
+<h3 align="center">AI Enhanced Fullstack Software Engineer | Building AI-Integrated Web Apps</h3>
+<h3 align="center">Open to Work : MERN stack Developer | Fullstack Software Engineering | Software Engineering</h3>
 
 <p align="center">
   <a href="https://my-professionalportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=flat-square" /></a>
@@ -12,10 +12,9 @@
 
 ### 🚀 About Me
 
-- 🎓 MERN Stack Developer, certified by **Illinois Institute of Technology (USA) & Entri Elevate**
+- 🎓 AI Enhanced MERN Stack Developer, certified by **Illinois Institute of Technology (USA) & Entri Elevate**
 - 💼 12+ years of leadership & operations experience, now transitioning into full stack development
 - 🤖 Passionate about building **AI-integrated applications** using the Gemini API
-- 🌱 Currently deepening skills in TypeScript, AI, ML, DL, UI/UX, Data Analytics, Python, Power BI, SQL, Cyber Security, Ethical Hacking, Blockchain & IoT | Cloud & AI platforms
 - 📍 Based in Coimbatore, Tamil Nadu, India
 
 ---
@@ -78,7 +77,7 @@
 
 ### 📫 Let's Connect
 
-Open to full stack developer roles — feel free to reach out!
+Open to MERN stack Developer | Fullstack Software Engineering | Software Engineering roles — feel free to reach out!
 
 <p align="left">
   📧 gunasekaran006@gmail.com &nbsp;|&nbsp; 📱 +91 9789345684
